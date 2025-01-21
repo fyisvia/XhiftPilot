@@ -1,2 +1,1 @@
 # XhiftPilot
-When I deployed xray and xui panels on my vps, I found that the current tutorials on YouTube still require the operator to have a little technical foundation. So I decided to write a desktop application based on electron, so that anyone can complete the deployment operation easily. I wrote this project purely out of interest, so I updated it with fate.
